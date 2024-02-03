@@ -1,7 +1,5 @@
 <p align="center">  <img src="https://count.getloli.com/get/@FFUV?theme=gelbooru" </p>
 
-
-
 <p align="left">
 <a href="https://codepen.io/ttrmaniac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ttrmaniac" height="30" width="40" /></a>
 <a href="https://dev.to/muusybane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muusybane" height="30" width="40" /></a>
