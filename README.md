@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/ce817bc3-c1f2-41ce-9e47-270abd9f576a/project/4965070a-477a-4e98-b704-f9daae717406.svg)](https://wakatime.com/badge/user/ce817bc3-c1f2-41ce-9e47-270abd9f576a/project/4965070a-477a-4e98-b704-f9daae717406)
+
 <p align="center">  <img src="https://count.getloli.com/get/@FFUV?theme=gelbooru" </p>
 
 <p align="left">
