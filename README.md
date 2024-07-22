@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@ce817bc3-c1f2-41ce-9e47-270abd9f576a&v=2">
-    <img src="https://wakatime.com/badge/user/ce817bc3-c1f2-41ce-9e47-270abd9f576a.svg&v=2" alt="wakatime">
+    <img src="https://wakatime.com/badge/user/ce817bc3-c1f2-41ce-9e47-270abd9f576a.svg" alt="wakatime">
   </a>
 </p>
 
