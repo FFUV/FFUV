@@ -5,6 +5,8 @@
   </a>
 </p>
 
+[![Stperrakis wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffuv)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">  <img src="https://count.getloli.com/get/@FFUV?theme=gelbooru" </p>
 
 <p align="left">
