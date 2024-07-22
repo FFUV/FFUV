@@ -4,7 +4,10 @@
     <img src="https://wakatime.com/badge/user/ce817bc3-c1f2-41ce-9e47-270abd9f576a.svg" alt="wakatime">
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?&ffuv&layout=compact">
+<p align="center">
+  <img src="https://wakatime.com/badge/user/ffuv.svg?style=flat-square&color=blue&label=All%20Time" alt="All Time">
+</p>
+
 
 <p align="center">  <img src="https://count.getloli.com/get/@FFUV?theme=gelbooru" </p>
 
