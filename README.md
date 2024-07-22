@@ -1,8 +1,3 @@
-
-<p align="center">
-  <a href="https://wakatime.com/@ce817bc3-c1f2-41ce-9e47-270abd9f576a">
-    <img src="https://wakatime.com/badge/user/ce817bc3-c1f2-41ce-9e47-270abd9f576a.svg" alt="wakatime">
-  </a>
 <p align="center">
   <img src="https://wakatime.com/badge/user/ce817bc3-c1f2-41ce-9e47-270abd9f576a.svg?style=flat-square&color=blue&label=All%20Time" alt="All Time">
 </p>
