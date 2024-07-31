@@ -11,9 +11,9 @@
 <a href="https://stackoverflow.com/users/14262478/muusy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19942848" height="30" width="40" /></a>
 <a href="https://dribbble.com/muusy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="muusy" height="30" width="40" /></a>
 <a href="https://hashnode.com/@muusy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@muusy" height="30" width="40" /></a>
-<a href="https://medium.com/@muusy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muusy" height="30" width="40" /></a>
+<a href="https://medium.com/@medium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muusy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/muusy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="muusy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muusy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muusy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muusy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ttrmaniac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="FFUV" height="30" width="40" /></a>
 </p>
 
