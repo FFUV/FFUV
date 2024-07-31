@@ -14,7 +14,7 @@
 <a href="https://medium.com/@medium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muusy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/muusy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="muusy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muusy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ttrmaniac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="FFUV" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/ttrmaniac](https://leetcode.com/u/092/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="FFUV" height="30" width="40" /></a>
 </p>
 
 
